@@ -1,7 +1,7 @@
 iosinmemoryrecord
 =================
 
-Example of recording and playing back audio data on iOS using a CoreAudio IO Audio Unit.
+Example of recording and playing back audio data on iOS using an IO Audio Unit.
 
 Overview
 --------
